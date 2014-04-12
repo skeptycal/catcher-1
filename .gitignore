@@ -2,6 +2,9 @@
 logs
 *.log
 
+# Cache
+.sass-cache
+
 # Runtime data
 pids
 *.pid

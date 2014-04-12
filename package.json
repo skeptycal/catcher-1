@@ -1,0 +1,25 @@
+{
+  "name": "catcher",
+  "version": "0.1.0",
+  "description": "A simple eboor that connects to your dropbox",
+  "style": "./css/main.css",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/kkga/catcher.git"
+  },
+  "devDependencies": {
+    "gulp": "~3.6.0",
+    "gulp-livereload": "~0.2.0",
+    "gulp-minify-css": "~0.2.0",
+    "tiny-lr": "0.0.5",
+    "gulp-util": "~2.2.12",
+    "gulp-watch": "~0.5.0",
+    "gulp-csslint": "~0.1.3",
+    "gulp-autoprefixer": "0.0.5",
+    "gulp-ruby-sass": "~0.3.1",
+    "ecstatic": "~0.4.13"
+  },
+  "author": {
+
+  }
+}
