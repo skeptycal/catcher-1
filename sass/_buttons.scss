@@ -1,0 +1,23 @@
+.button {
+  display: inline-block;
+  height: auto;
+  padding: .5rem 1rem;
+  font-family: inherit;
+  font-size: 1.125rem;
+  font-weight: bold;
+  text-decoration: none;
+  cursor: pointer;
+  border: none;
+  appearance: none;
+  white-space: nowrap;
+}
+
+.button--lg {
+  padding: 1rem 1.5rem;
+  font-size: 1.250rem;
+}
+
+.button--sm {
+  padding: .25 1rem;
+  font-size: 1rem;
+}
